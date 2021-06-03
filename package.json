@@ -1,0 +1,20 @@
+{
+  "name": "bitcoinwallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^8.25.8",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
